@@ -3,4 +3,4 @@ This is the blog repo, writing about my trial to do some hypothesis testing usin
 
 1. Anova (Categorical -> Quantitative) 
 2. Chi Square (Categorical -> Categorical)
-3. R2 (Quantitative -> Categorical)
+3. Pearson (Quantitative -> Categorical)
